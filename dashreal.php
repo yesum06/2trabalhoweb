@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:dashreal.php
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -49,3 +50,5 @@
    </footer>
 </body>
 </html>
+========
+>>>>>>>> d310bd2 (Atualização de dashboard e usuários):dash.php
