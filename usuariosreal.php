@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title>Usuários</title>
     <link rel="stylesheet" href="dashreal.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -37,10 +37,11 @@
                         <td>Administrador</td>
                         <td>Ativo</td>
                         
-                      <td><span class= "badge ativo"></span></td>
-                      <td><button class="btn-icon"><i class="fa-solid fa-pen"></i></button></td>
-                      <td><button class="btn-icon"><i class="fa-solid fa-trash"></i></button></td>
-                      <td><button class="btn-icon"><i class="fa-solid fa-eye"></i></button></td>
+                      <td><span class= "badge ativo"></span>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-eye"></i></button>
+                      </td>
                     </tr>
                     <tr>
                         <td>02</td>
@@ -48,10 +49,11 @@
                         <td>ana.souza@unifev.edu.br</td>
                         <td>Editor</td>
                         <td>Ativo</td>
-                       <td><span class= "badge ativo"></span></td>
-                       <td><button class="btn-icon"><i class="fa-solid fa-pen"></i></button></td>
-                       <td><button class="btn-icon"><i class="fa-solid fa-trash"></i></button></td>
-                       <td><button class="btn-icon"><i class="fa-solid fa-eye"></i></button></td>
+                       <td><span class= "badge ativo"></span>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-eye"></i></button>
+                       </td>
                     </tr>
                     <tr>
                         <td>03</td>
@@ -59,10 +61,11 @@
                         <td>122269@unifev.edu.br</td>
                         <td>Usuário</td>
                         <td>Ativo</td>
-                        <td><span class= "badge ativo"></span></td>
-                        <td><button class="btn-icon"><i class="fa-solid fa-pen"></i></button></td>
-                        <td><button class="btn-icon"><i class="fa-solid fa-trash"></i></button></td>
-                        <td><button class="btn-icon"><i class="fa-solid fa-eye"></i></button></td>
+                        <td><span class= "badge ativo"></span>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
+                            <button class="btn-icon"><i class="fa-solid fa-eye"></i></button>
+                        </td>
                     </tr>
                 </tbody> 
             </table>      
