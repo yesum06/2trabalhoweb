@@ -36,7 +36,7 @@
                         <td>eric@unifev.edu.br</td>
                         <td>Administrador</td>
                         <td>Ativo</td>
-
+                        
                         <td>
                           <span class= "badge ativo"></span>
                          <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
