@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
-    <link rel="stylesheet" href="dash.css">
+    <link rel="stylesheet" href="dashreal.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
  
@@ -36,14 +36,14 @@
                         <td>eric@unifev.edu.br</td>
                         <td>Administrador</td>
                         <td>Ativo</td>
+
                         <td>
                           <span class= "badge ativo"></span>
                          <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
                          <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
                          <button class="btn-icon"><i class="fa-solid fa-eye"></i></button>
                       </td>
-                    </tr>
-                    <tr>
+                   </tr>
                         <td>02</td>
                         <td>Ana Souza</td>
                         <td>ana.souza@unifev.edu.br</td>
@@ -55,6 +55,7 @@
                          <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
                          <button class="btn-icon"><i class="fa-solid fa-eye"></i></button>
                      </td>
+
                     </tr>
                     <tr>
                         <td>03</td>
@@ -68,6 +69,7 @@
                           <button class="btn-icon"><i class="fa-solid fa-trash"></i></button>
                           <button class="btn-icon"><i class="fa-solid fa-eye"></i></
                         </td>
+
                     </tr>
                 </tbody> 
             </table>      
