@@ -181,6 +181,65 @@ tbody tr:hover{
     font-size: 16px;
 }
 
+/*Formataçao fo formulário*/
+.card-form{
+    background-color: var(--white-nav);
+    max-width: 700px; /* Evita que o formulário fique muito largo em telas grandes */
+    margin: 20px auto; /* Centraliza o formulário horizontalmente */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
 
+.form-header{
+    margin-bottom: 25px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
 
+.form-group{
+    display: flex;
+    flex-direction: column; /* label em cima, input embaixo */
+    gap: 8px; /* Espaçamento entre label e input */
+    margin-bottom: 20px;
+}
 
+.form-row{
+    display: flex;
+    gap: 20px; /* Espaçamento entre os campos na mesma linha */
+}
+
+.flex-1 {flex:1;} /* Faz com que os campos na mesma linha tenham a mesma largura */
+
+label{
+    font-weight: bold;
+    color: #2c3e50;
+    font-size: 14px;
+}
+
+input, select{
+    padding: 12px;
+    border: 1px solid #cbd5e0;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+input:focus{
+    border-color: var(--article--titulo);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0,74,141,0.1);
+}
+
+.btn-save{
+    background-color: #27ae60;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-cancel:hover{
+    color: red;
+    font-weight: bold;
+}

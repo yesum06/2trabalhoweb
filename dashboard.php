@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
-    <link rel="stylesheet" href="dashreal.css">
+    <link rel="stylesheet" href="dash.css">
 </head>
 
 <body>
@@ -17,8 +17,8 @@
             <li><a href="#">Configurações</a></li>
           </ul>
           <div class="perfil-usuario">
-             <img src="https://ui-avatars.com/api/?name=Eric+Freitas&background=008080&color=fff" alt="Avatar">
-             <span> Eric Freitas</span>
+             <img src="https://ui-avatars.com/api/?name=Simone+Ramos&background=008080&color=fff" alt="Avatar">
+             <span> Simone Ramos</span>
           </div> 
      </nav>  
  
