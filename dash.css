@@ -215,7 +215,7 @@ tbody tr:hover{
 }
 
 .form-group{
-    display: flex;
+    display:flex;
     flex-direction: column; /* label em cima, input embaixo */
     gap: 8px; /* Espaçamento entre label e input */
     margin-bottom: 20px;
