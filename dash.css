@@ -170,9 +170,26 @@ tbody tr:nth-child(even){
 }
 
 tbody tr:hover{
-    background-color: #f1f7ff;
+    background-color: #f1f7ff; /* destaque ao passar o mouse */
 }
 
+/*barra status*/
+.badge{
+    padding: 4px 10px;
+    border-radius: 20px;
+    font: 12px;
+    font-weight: bold;
+}
+
+.ativo{
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.inativo{
+    background-color: #f8f9fa;
+    color: #721c24;
+}
 .btn-icon{
     background: none;
     border: none;
@@ -242,4 +259,10 @@ input:focus{
 .btn-cancel:hover{
     color: red;
     font-weight: bold;
+}
+
+.cadastro-usuarios{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
